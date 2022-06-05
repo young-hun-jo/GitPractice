@@ -14,3 +14,8 @@ lst = [n for n in range(28)]
 
 print(list_split(lst,3))
 
+if len(list_split(lst,3)) > 15:
+    print('The length of lst is longer than 15')
+else:
+    print('The length of lst is shorter than 15')
+
