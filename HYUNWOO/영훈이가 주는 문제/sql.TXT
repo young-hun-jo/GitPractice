@@ -1,0 +1,4 @@
+문제링크 : https://programmers.co.kr/learn/courses/30/lessons/59034
+정답 -> 
+SELECT * FROM ANIMAL_INS A
+ORDER BY A.ANIMAL_ID;
