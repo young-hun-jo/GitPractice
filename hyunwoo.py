@@ -19,4 +19,6 @@ if len(list_split(lst,3)) > 15:
 else:
     print('The length of lst is shorter than 15')
 
+def return_arr(array):
+    return array
 # hello world!
